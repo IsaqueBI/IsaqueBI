@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IsaqueBI
+- 👋 Hi, I’m @IsaqueAlves
 - 👀 I’m interested in job in Business Intelligence in enery
 - 🌱 I’m currently learned Business Analytic
 - 💞️ I’m looking to collaborate to help the person for job
